@@ -7,7 +7,7 @@ var Clasificando = false;
 var InputTexbox;
 var BotonTexBox;
 
-let BrokerMQTT = 'ws://broker.shiftr.io/mqtt';
+let BrokerMQTT = 'broker.shiftr.io';
 let PuertoMQTT = 80;
 let ClienteIDMQTT = "MQTT-P5";
 let UsuarioMQTT = "carlosguaillazaca";
